@@ -3,9 +3,9 @@ import styled from "@emotion/styled";
 import { IMG } from "./Image";
 
 const Container = styled.section`
-  height: 70px;
   grid-area: logo;
-  padding: 24px 24px 0px 24px;
+  height: 100px;
+  padding: 48px 96px 0px 24px;
   @media (min-width: 769px) {
     height: 100px;
     padding: 48px 96px 0px 96px;

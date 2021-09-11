@@ -10,16 +10,16 @@ export const H1 = styled.h1`
   font-weight: 600;
   text-transform: uppercase;
   margin: 4px 0px;
-  font-size: 48px;
-  letter-spacing: 8px;
+  font-size: 2.7rem;
+  letter-spacing: 0.5rem;
 `;
 export const H2 = styled.h2`
   color: hsl(0, 36%, 70%);
   font-weight: 300;
   text-transform: uppercase;
   margin: 4px 0px;
-  font-size: 48px;
-  letter-spacing: 8px;
+  font-size: 2.7rem;
+  letter-spacing: 0.5rem;
 `;
 
 export const H3 = styled.h3``;
